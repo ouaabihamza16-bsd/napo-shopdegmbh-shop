@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://napo-shopdegmbh.shop/sitemap.xml
